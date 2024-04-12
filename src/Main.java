@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         // Empty main class ...
+        // Examples to be added and removed during programming ...
     }
 }

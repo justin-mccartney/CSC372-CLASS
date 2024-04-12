@@ -16,5 +16,3 @@ class dog extends Animal {
     dog.eat(); ... OUTPUT: "Animal is eating."
     dog.bark(); ... OUTPUT: "The dog is barking."
 */
-
-
