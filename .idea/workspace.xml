@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16dfdd7-a9a9-4b80-b351-3aa39c70ff88" name="Changes" comment="Week 2 Commit - SimpleGUI Creation ...">
-      <change afterPath="$PROJECT_DIR$/src/MenuInterface.java" afterDir="false" />
+    <list default="true" id="f16dfdd7-a9a9-4b80-b351-3aa39c70ff88" name="Changes" comment="Week 3 Commit - Menu Interface Creation ...">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgeCalculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MenuInterface.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuInterface.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +73,8 @@
       <workItem from="1713479721121" duration="481000" />
       <workItem from="1714086757802" duration="1469000" />
       <workItem from="1714174635827" duration="6617000" />
-      <workItem from="1714966681761" duration="4226000" />
+      <workItem from="1714966681761" duration="4569000" />
+      <workItem from="1715569663600" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="Week 1 Commit - Animal Class First Take">
       <option name="closed" value="true" />
@@ -103,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714336971076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week 3 Commit - Menu Interface Creation ...">
+      <option name="closed" value="true" />
+      <created>1714971115977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714971115977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 1 Commit - Animal Class First Take" />
     <MESSAGE value="Week 2 Commit - SimpleGUI Creation ..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Commit - SimpleGUI Creation ..." />
+    <MESSAGE value="Week 3 Commit - Menu Interface Creation ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Commit - Menu Interface Creation ..." />
   </component>
 </project>
