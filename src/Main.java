@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        /*
         // Main being used for Module 1 Critical Thinking
         // Employee and Manager Classes ...
         Employee employee = new Employee();
         employee.setFirstName("Micah");
         employee.setLastName("Ma'a");
         employee.setEmployeeID(1993);
+        employee.setBonus(0);
         employee.employeeSummary();
         System.out.println("\n");
 
@@ -15,7 +15,7 @@ public class Main {
         manager.setLastName("Muno");
         manager.setEmployeeID(1997);
         manager.setDepartment("Excavation");
+        manager.setBonus(3200);
         manager.employeeSummary();
-        */
     }
 }
