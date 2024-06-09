@@ -28,3 +28,5 @@ public class RecursiveMultiplication {
         return numbers[index] * calculateProduct(numbers, index + 1);
     }
 }
+
+// In the feedback from my submission, there were no indications of specific corrections to be made.
